@@ -4,3 +4,6 @@
 
 The objective of this assignment is to simulate a basic model of processes, i.e. New, Ready, Running, Blocked, and Finished.<br/>
 The supporting functions outside of main.cpp were already provided. The code inside __[main.cpp](main.cpp)__ was modified __[here](main.cpp#L66-L284)__
+
+## Replit Implementation
+__[Five State Processing](ttps://replit.com/@AdamCamerer/CS-3800-HW2?v=1)
