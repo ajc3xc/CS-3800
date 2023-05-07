@@ -5,6 +5,6 @@ Five State Processing, HW1 Writeup, and Final Project Paper for course included
 <br/><br/>
 
 ## Files
-- __[Google Drive](https://drive.google.com/drive/u/0/folders/1oHVCVHLb9wpPPY9QO7IA0vKsB4wmcdHh)__
-- __[Final Project](Final-Project)__
-- __[Project Pictures](Pictures)__
+- __[Final Project](Final-Project/Adam%20Camerer%20_%20Yannis%20Fu%20-%20Operating%20Systems%20Final%20Report.docx.pdf)__
+- __[Five State Processing](Five-State-Processing-HW)__
+- __[HW1 Write Up](HW1/CS_3800_HW1_Write_Up.pdf)__
