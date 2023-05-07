@@ -1,5 +1,5 @@
 # CS-3800
-![download](https://user-images.githubusercontent.com/91383782/211229807-3a0d52b5-d269-4978-b265-5810354e62cc.png)<br/>
+![download](https://www.howtogeek.com/wp-content/uploads/2018/08/img_5b68e80f77e33.png?height=200p&trim=2,2,2,2)<br/>
 Repository for CS 3800: Introduction to Operating Systems\
 Five State Processing, HW1 Writeup, and Final Project Paper for course included
 <br/><br/>
